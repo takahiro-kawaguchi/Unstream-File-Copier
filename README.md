@@ -1,0 +1,2 @@
+# Unstream-File-Copier
+NTFSの代替データストリームを削除したうえでコピーを行うGUIツールです
